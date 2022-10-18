@@ -1,0 +1,14 @@
+*{
+ box-sizing: border-box;
+}
+
+body {
+  background-color: #5e30df;
+}
+
+main {
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  padding: 40px;
+}
